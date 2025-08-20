@@ -16,6 +16,7 @@ To analyze and model humanitarian vulnerabilities in India by integrating market
 
 
 # Folder structure
+<pre>
 Humanitarian_Risk_Analytics_India/
 ├── data/              # Raw and cleaned datasets (if sharable)
 ├── sql/               # SQL scripts
@@ -24,7 +25,7 @@ Humanitarian_Risk_Analytics_India/
 ├── report/            # Final PowerPoint deck (PDF)
 ├── README.md          # Project summary
 └── LICENSE            # Optional (MIT or Creative Commons)
-
+</pre>
 
 
 
