@@ -18,13 +18,13 @@ To analyze and model humanitarian vulnerabilities in India by integrating market
 # Folder structure
 <pre>
 Humanitarian_Risk_Analytics_India/
-├── data/              # Raw and cleaned datasets (if sharable)
+├── data/              # Raw and cleaned datasets
 ├── sql/               # SQL scripts
 ├── python/            # Jupyter notebooks
-├── Power_BI/          # Power BI screenshots or .pbix file
-├── report/            # Final PowerPoint deck (PDF)
+├── Power_BI/          # Power BI pdf or .pbix file
+├── Screenshots/       # Screenshots of dashboard (png)
+├── report/            # Final PowerPoint deck (PPTX and PDF)
 ├── README.md          # Project summary
-└── LICENSE            # Optional (MIT or Creative Commons)
 </pre>
 
 
